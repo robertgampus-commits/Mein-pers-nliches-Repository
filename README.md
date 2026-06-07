@@ -4,7 +4,7 @@
 Welcome to my creative space. I focus on building mindful technology at the intersection of human creativity, literature, and ethical artificial intelligence.
 
 ### 🌟 What I'm working on
-* **[Projekt Cyrano (PC)](https://deine-website.com)** – A private, local-first Personal Companion designed to turn daily conversations into collaborative novels. 
+* **[Projekt Cyrano (PC)](https://gampus.at)** – A private, local-first Personal Companion designed to turn daily conversations into collaborative novels. 
 * **Cyrano Safety Anchor** – Our open-source crisis scanning and emotional grounding framework for responsible AI companions.
 
 ### 💡 My Philosophy
